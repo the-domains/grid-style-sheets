@@ -1,1 +1,28 @@
-{}
+name: Grid Style Sheets
+favicon: null
+layout_spectrum: 0.5
+typography_spectrum: 0.5
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fae9c8'
+    - '#0e327b'
+    - '#197fa6'
+    - '#25cfb3'
+    - '#fa759f'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
