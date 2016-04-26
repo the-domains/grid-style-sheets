@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://techcrunch.com/2014/07/31/venrock-7-450m/'
 inLanguage: null
 keywords: []
 description: "Long-running venture capital firm Venrock just closed its seventh fund, bringing in $450 million in new capital. The firm, which has been around since the '60s and counts the Rockefeller family as one of its big LPs, will use the new money to continue investing in early-stage tech and healthcare companies."
-datePublished: '2016-04-26T08:41:04.014Z'
-dateModified: '2016-04-26T08:41:03.912Z'
+datePublished: '2016-04-26T08:42:01.717Z'
+dateModified: '2016-04-26T08:42:01.591Z'
 title: Venrock Closes $450 Million Seventh Fund To Invest In Tech And Healthcare Startups
 author:
   - name: Ryan Lawler
