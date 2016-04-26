@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-04-26T08:41:03.945Z'
+datePublished: '2016-04-26T08:42:01.722Z'
 sourcePath: _posts/2016-04-19-projections-in-the-forest.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/115082758'
@@ -11,7 +11,7 @@ author:
     url: 'http://vimeo.com/3hund'
     avatar: {}
 published: true
-dateModified: '2016-04-26T08:41:03.856Z'
+dateModified: '2016-04-26T08:42:01.581Z'
 title: Projections in the Forest
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/115082758'
