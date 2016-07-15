@@ -29,5 +29,9 @@ navigation:
     url: twitter.com/d4tocchini
     name: Twitter
     type: external
+  - id: 127674eb-03c0-497b-8aed-9755c0f6e8c0
+    url: 2016-04-23-this-is-a-wonderful-life.html
+    name: This is a wonderful life
+    type: content
 favicon: null
 purpose: []
